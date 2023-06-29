@@ -2,7 +2,7 @@
 
 ## Description
 
-This project focuses on creating a personal portfolio for Annielys Sosa. This portfolio can be later used for various career seeking, or professional networking opportunities. The project showcases an About Me, Work, Contact Me, and Resume section. 
+This project focused on creating a personal portfolio for Annielys Sosa. This portfolio can be later used for various career seeking, or professional networking opportunities. The project showcases an About Me, Work, Contact Me, and Resume section. 
 
 Many challenges were faced during this process given the beginner level of my experience. However, I was able to further expand my critical thinking skills and hone in on my attention to detail in order to clean up the code as needed. I am certain I have much more to learn, but keeping a learner mentality will help with my success. 
 
@@ -17,7 +17,7 @@ This site may now be accessed with all its updated features by visiting the hype
 INSERT DEPLOYED LINK HERE 
 
 The page will welcome you with the following image:
-<img>
+<img src="./images/README%20Screenshot.png" alt="README screenshot">
 
 ## Credits
 
