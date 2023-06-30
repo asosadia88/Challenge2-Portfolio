@@ -14,7 +14,7 @@ N/A
 
 This site may now be accessed with all its updated features by visiting the hyperlink below: 
 
-INSERT DEPLOYED LINK HERE 
+https://asosadia88.github.io/Challenge2-Portfolio/ 
 
 The page will welcome you with the following image:
 <img src="./images/README%20Screenshot.png" alt="README screenshot">
